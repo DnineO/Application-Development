@@ -24,14 +24,14 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_marginRight="20dp"
+            android:layout_marginEnd="20dp"
             android:text="@+id/button_yes"
             />
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_marginRight="20dp"
+            android:layout_marginStart="20dp"
             android:text="@+id/button_no"
             />
 
