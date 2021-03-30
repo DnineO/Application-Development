@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="20dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="20dp"
+        android:text="Выберете еду" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="C собой?"
+            />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="100dp"
+            android:text="NO"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:text="Воппер"/>
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:text="Картошка фри"/>
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:text="Напиток (на выбор)"/>
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:text="Десерт"/>
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:text="Соус"/>
+</LinearLayout>
+
+</LinearLayout>
