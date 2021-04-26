@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Go Activity</string>
+    <string name="textGoTo_name"></string>
+    <string name="textGoTo_fam"></string>
+    <string name="back">Back</string>
+    <string name="textName">Введите имя:</string>
+    <string name="textFam">Введите фамилию:</string>
+    <string name="fam">Fam</string>
+    <string name="name">Name</string>
+    <string name="go_to">Go to</string>
+</resources>
