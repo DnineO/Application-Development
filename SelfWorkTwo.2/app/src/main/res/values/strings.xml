@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SelfWorkTwo.2</string>
+    <string name="sendName">set name</string>
+    <string name="sendFam">set Fam</string>
+    <string name="btnSend">send</string>
+    <string name="btnBack">Back</string>
+    <string name="tvName">Name:</string>
+    <string name="tvFam">Family:</string>
+</resources>
